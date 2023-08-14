@@ -1,3 +1,6 @@
+##### Use https://nbviewer.org to upload the file in case of errors
+---
+
 # Student Performance Analysis and Prediction
 This notebook presents an analysis and prediction of student performance using a dataset available on Kaggle. The dataset contains information about various students, including features such as their demographic information, family background, and academic performance in mathematics.
 
